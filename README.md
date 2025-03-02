@@ -45,3 +45,7 @@ The `input_x` directory has 3 different images of an outdoor area. The perspecti
 
 ### Output
 The `output` directory has the stitched image, named `stitched_panorama.jpg`.
+
+
+# Documentation
+[Documentation](https://github.com/nathanmathewv/VR_Assignment1_NathanMathew_IMT2022022/blob/main/VR%20Assignment%201%20-%20Coins%20and%20Panorama.pdf)
