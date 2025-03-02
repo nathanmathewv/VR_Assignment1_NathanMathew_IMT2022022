@@ -10,8 +10,17 @@ This project consists of two parts:
 ## Requirements
 
 ```bash
-git clone https://github.com/varnit-mittal/VR_Assignment1_VarnitMittal_IMT2022025.git
-cd VR_Assignment1_VarnitMittal_IMT2022025
-pip install -r requirements.txt
+git clone https://github.com/nathanmathewv/VR_Assignment1_NathanMathew_IMT2022022.git
+cd VR_Assignment1_NathanMathew_IMT2022022
 ```
+
+## Part 1
+
+### Features
+- Detects coins using edge detection.
+- Segments each detected coin using contour analysis and removes unwanted noisy detections.
+- Counts the total number of coins.
+
+### Running the code
+Run the Python Notebook and see the results on the notebook itself.
 
