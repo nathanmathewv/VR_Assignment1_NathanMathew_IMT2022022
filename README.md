@@ -28,7 +28,7 @@ Run the Python Notebook and see the results on the notebook itself, or see the r
 The `input` directory has 3 different images of coins, one having different number as well.
 
 ### Output
-The `output` directory has the 3 images with edges highlighted on the coins. It also has images named `segmented_x_y` which are the segmented coins.
+The `output` directory has the 3 images with edges highlighted on the coins. It also has images named `segmented_x_y.jpg` which are the segmented coins.
 
 ## Part 2
 
